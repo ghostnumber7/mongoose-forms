@@ -1,0 +1,37 @@
+{
+  "name": "mongoose-form",
+  "description": "Form validation and creation for express 3 and mongoose",
+  "keywords": [
+    "express",
+    "mongoose",
+    "form"
+  ],
+  "author": {
+    "name": "Marco Godoy"
+  },
+  "version": "0.0.1",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ghostnumber7/mongoose-forms/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/forms.js",
+  "bugs": {
+    "url": "https://github.com/ghostnumber7/mongoose-forms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ghostnumber7/mongoose-forms.git"
+  },
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "readmeFilename": "README.md"
+}
